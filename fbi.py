@@ -65,7 +65,7 @@ def show_program():
 
     Author     Hak9
     Name       Facebook Information
-    Version    full version
+    Version    Full Version
     Date       13/08/2018 
     Jabber     hak9@jabber.de
 
