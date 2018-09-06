@@ -67,7 +67,7 @@ def show_program():
     Name       Facebook Information
     Version    Full Version
     Date       13/08/2018 
-    Jabber     hak9@jabber.de
+    Jabber     xhak9x@jabber.de
 
 * if you find any errors or problems , please contact
   author
